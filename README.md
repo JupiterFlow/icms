@@ -127,7 +127,7 @@ Project Link: [https://github.com/JupiterFlow/icms](https://github.com/JupiterFl
 [license-shield]: https://img.shields.io/github/license/JupiterFlow/icms?style=flat-square
 [license-url]: https://github.com/JupiterFlow/icms/blob/master/LICENSE.txt
 
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/jupiterflow
 
 [product-screenshot-1]: https://github.com/JupiterFlow/icms/blob/master/_data/001.jpg?raw=true
