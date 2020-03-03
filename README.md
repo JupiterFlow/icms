@@ -52,7 +52,7 @@
 
 * [About the Project](#about-the-project)
   * [Summary](#summary)
-  * [Main Contents](#main-contents)
+  * [Main Contents](#main-features)
   * [Built With](#built-with)
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
