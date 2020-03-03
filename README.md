@@ -54,10 +54,6 @@
   * [Summary](#summary)
   * [Main Features](#main-features)
   * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
-* [Usage](#usage)
 * [Contributing](#contributing)
 * [License](#license)
 * [Contact](#contact)
@@ -91,26 +87,6 @@
 ### Built With
 * [Java SE](https://www.oracle.com/java/technologies/javase-downloads.html)
 * [MariaDB](https://mariadb.org)
-
-<!-- GETTING STARTED -->
-## Getting Started
-Not provided.
-
-### Prerequisites
-```sh
-Nothing.
-```
-
-### Installation
-```sh
-Not provided.
-```
-
-<!-- USAGE EXAMPLES -->
-## Usage
-```sh
-Nothing.
-```
 
 <!-- CONTRIBUTING -->
 ## Contributing
