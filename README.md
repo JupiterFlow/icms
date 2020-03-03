@@ -27,7 +27,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/JupiterFlow/icms">
-    <img src="https://github.com/JupiterFlow/icms/blob/master/images/README.png?raw=true" alt="Logo" width="80" height="80">
+    <img src="https://github.com/JupiterFlow/icms/blob/master/_data/README.png?raw=true" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">스마트 사이니지 RestAPI & Interface</h3>
