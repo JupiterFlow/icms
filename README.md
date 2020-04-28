@@ -111,20 +111,20 @@ Project Link: [https://github.com/960813/icms](https://github.com/960813/icms)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/JupiterFlow/icms?style=flat-square
+[contributors-shield]: https://img.shields.io/github/contributors/960813/icms?style=flat-square
 [contributors-url]: https://github.com/960813/icms/graphs/contributors
 
-[forks-shield]: https://img.shields.io/github/forks/JupiterFlow/icms?style=flat-square
+[forks-shield]: https://img.shields.io/github/forks/960813/icms?style=flat-square
 [forks-url]: https://github.com/960813/icms/network/members
 
-[stars-shield]: https://img.shields.io/github/stars/JupiterFlow/icms?style=flat-square
+[stars-shield]: https://img.shields.io/github/stars/960813/icms?style=flat-square
 [stars-url]: https://github.com/960813/icms/stargazers
 
-[issues-shield]: https://img.shields.io/github/issues/JupiterFlow/icms?style=flat-square
+[issues-shield]: https://img.shields.io/github/issues/960813/icms?style=flat-square
 
 [issues-url]: https://github.com/960813/icms/issues
 
-[license-shield]: https://img.shields.io/github/license/JupiterFlow/icms?style=flat-square
+[license-shield]: https://img.shields.io/github/license/960813/icms?style=flat-square
 [license-url]: https://github.com/960813/icms/blob/master/LICENSE.txt
 
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
